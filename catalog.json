@@ -1,0 +1,25 @@
+{
+  "manifest_version": 1,
+  "products": [
+    {
+      "id": "ai.nerdena.nerdena",
+      "name": "Nerdena",
+      "tagline": "Memory and control for your AI agents",
+      "description": "Nerdena gives your AI agents a memory and gives you control over them. It runs in your browser.",
+      "status": "beta",
+      "launch": {
+        "web": { "url": "https://nerdena.ai" }
+      }
+    },
+    {
+      "id": "ai.nerdena.rag",
+      "command": "nerdena-rag",
+      "name": "Nerdena RAG",
+      "tagline": "Ask questions about your files, fully offline",
+      "description": "Private question-answering over folders you choose. Answers cite the files they came from, and nothing leaves your computer.",
+      "status": "coming_soon",
+      "color": "sky",
+      "requires": [{ "name": "Ollama", "url": "https://ollama.com" }]
+    }
+  ]
+}
