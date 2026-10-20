@@ -20,7 +20,7 @@
       "status": "beta",
       "color": "sky",
       "requires": [{ "name": "Ollama", "url": "https://ollama.com" }],
-      "icon": "https://github.com/nikpirat/nerdena-hub-releases/releases/download/nerdena-rag-v0.1.0/ai.nerdena.rag.png",
+      "icon": "https://raw.githubusercontent.com/nikpirat/nerdena-hub-releases/main/icons/ai.nerdena.rag.png",
       "launch": {
         "desktop": {
           "linux": {
