@@ -24,9 +24,9 @@
       "launch": {
         "desktop": {
           "linux": {
-            "url": "https://github.com/nikpirat/nerdena-hub-releases/releases/download/nerdena-rag-v0.1.0/nerdena-rag-0.1.0-linux-x86_64.AppImage",
-            "version": "0.1.0",
-            "sha256": "d8a1acb268880617ee89c1b966bc72973dba7eb2bc35d9e235ad285dedad438e"
+            "url": "https://github.com/nikpirat/nerdena-hub-releases/releases/download/nerdena-rag-v0.1.1/nerdena-rag-0.1.1-linux-x86_64.AppImage",
+            "version": "0.1.1",
+            "sha256": "523ce11adea718be11f4bd5ef25f86d3a0964d2334b4278035055dc84174fc0b"
           }
         }
       }
