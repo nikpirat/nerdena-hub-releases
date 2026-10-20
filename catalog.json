@@ -17,9 +17,19 @@
       "name": "Nerdena RAG",
       "tagline": "Ask questions about your files, fully offline",
       "description": "Private question-answering over folders you choose. Answers cite the files they came from, and nothing leaves your computer.",
-      "status": "coming_soon",
+      "status": "beta",
       "color": "sky",
-      "requires": [{ "name": "Ollama", "url": "https://ollama.com" }]
+      "requires": [{ "name": "Ollama", "url": "https://ollama.com" }],
+      "icon": "https://github.com/nikpirat/nerdena-hub-releases/releases/download/nerdena-rag-v0.1.0/ai.nerdena.rag.png",
+      "launch": {
+        "desktop": {
+          "linux": {
+            "url": "https://github.com/nikpirat/nerdena-hub-releases/releases/download/nerdena-rag-v0.1.0/nerdena-rag-0.1.0-linux-x86_64.AppImage",
+            "version": "0.1.0",
+            "sha256": "d8a1acb268880617ee89c1b966bc72973dba7eb2bc35d9e235ad285dedad438e"
+          }
+        }
+      }
     }
   ]
 }
